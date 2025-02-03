@@ -8,8 +8,9 @@ This project explores trends in baby names using data analysis and visualization
 4. STRV_Case_Study.docx - Word file documenting the thought process, ideas and ChatGPT brainstorming.
 5. STRV_Case_Study.twb - Tableau visualizations (1st approach).
 6. requirements.txt - list with all the libraries and versions.
-7. CSV Files
-8. Parquent Files
+7. CSV Files: Top50_Unisex_National.csv and Top30_Unisex_State.csv
+8. Parquent Files: StateNames1960.parquet and NatonalNames1960.parquet
+9. Google Drive Link.txt - link to my Google Drive with 2 remaining big CSV files **(old method)**.
 
 ## Project Problem:
 I wanted to host a streamlit app using connection of my Github repo, but : 
