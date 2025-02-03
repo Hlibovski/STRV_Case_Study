@@ -15,4 +15,6 @@ I wanted to host a streamlit app using connection of my Github repo, but:
 2. Max file size for file in repo is 25mb and my CSV files exceed this limit.
 
 ## Solution:
-I will include all the neccessary files in Recruitee and you cab take a look at it at local host.
+I will include all the neccessary files in Recruitee.
+Files StateNames1960.csv and NatonalNames1960.csv are still too big, so I have included txt file: "Google Drive Link", where I have put those a link on my Cloud Storage.
+
