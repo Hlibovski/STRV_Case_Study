@@ -5,5 +5,5 @@ This project explores trends in baby names using data analysis and visualization
 1. STRV_Case_Study.pptx - presentation of the insights.
 2. app.py - Python code of the Streamlit app
 3. database.sqlite - SQLite database with tables and views.
-4. STRV_Case_Study.docx - Word file documenting the thought process behind the project.
+4. STRV_Case_Study.docx - Word file documenting the thought process, ideas and ChatGPT brainstorming.
 5. STRV_Case_Study.twb - Tableau visualizations (1st approach).
